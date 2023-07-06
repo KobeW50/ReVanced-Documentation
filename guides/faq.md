@@ -16,7 +16,7 @@ Yes. MicroG, official patching tools, and the patches are all open-source. You c
 
 #####**3. How do I get ReVanced Extended?**
 
-You can follow the [wiki guides](https://www.reddit.com/r/revancedextended/wiki/guide/) for installation instructions. You may also find other guides in the subreddit.
+You can follow the [wiki guides](https://www.reddit.com/r/revancedextended/wiki/guide/) for installation instructions. You can also find other guides in the subreddit.
 
 
 
@@ -40,7 +40,7 @@ ReVanced and ReVanced Extended are constantly updating their features so the ans
 
 #####**7. Can I have YT ReVanced Extended and YT ReVanced installed as separate apps?**
 
-If you patch with the non-root method YT ReVanced Extended and YTM Extended will have a unique package name and will not conflict with any apps.
+If you patch with the non-root method, YT ReVanced Extended and YTM Extended will have a unique package name and will not conflict with any apps.
 
 
 
