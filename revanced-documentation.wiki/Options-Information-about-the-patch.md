@@ -4,6 +4,10 @@ Options: Information about the patch
 
 ### [YouTube Music](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
 
+### [Reddit](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comredditfrontpage)
+
+### [Vanced MicroG](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-commgoogleandroidgms)
+
 Patches that need to be included or excluded depending on the situation
 ==
 
