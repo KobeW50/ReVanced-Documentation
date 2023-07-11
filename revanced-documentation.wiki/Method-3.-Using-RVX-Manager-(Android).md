@@ -1,7 +1,7 @@
 Information
 ==
 ### 1. This document is a guide on how to build ReVanced Extended using the official ReVanced Manager.
-### 2. To use the official ReVanced Manager, the following conditions must be met:
+### 2. To use the RVX Manager, the following conditions must be met:
 - Your device must use the arm64-v8a architecture.
 - Your device must be running Android 8.0+.
 
@@ -29,10 +29,8 @@ Common
 
 ### 3. Download [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest) from my repo and install it on your device.
 
-※ Even if ReVanced Manager is already installed on the device, I recommend reinstalling it.
 
-
-### 3. Follow the screenshots to proceed with the patch.
+### 4. Follow the screenshots to proceed with the patch.
 
 ![ReVanced_Manager4](https://user-images.githubusercontent.com/108592928/202160529-5a62e8ed-40c6-444f-9ad9-447868a29396.png)
 
