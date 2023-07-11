@@ -17,25 +17,24 @@ Using CLI: `-e microg-support`(YouTube) or `-e music-microg-support`(YouTube Mus
 - Select Custom Branding Icon MMT
 - Don't select Custom Branding Icon Revancify Red
 - Don't select Custom Branding Icon Revancify Blue
-- Don't select Add Splash Animation
 
-Using CLI: `-i custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue` `-e add-splash-animation`
+Using CLI: `-i custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
 ### If you want the Revancify Red Icon:
 - Select Custom Branding Icon Revancify Red
 - Don't select Custom Branding Icon MMT
 - Don't select Custom Branding Icon Revancify Blue
-- Don't select Add Splash Animation
 
-Using CLI: `-i custom-branding-icon-revancify-red` `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-blue` `-e add-splash-animation`
+
+Using CLI: `-i custom-branding-icon-revancify-red` `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-blue` 
 
 ### If you want the Revancify Blue Icon:
 - Select Custom Branding Icon Revancify Blue
 - Don't select Custom Branding Icon MMT
 - Don't select Custom Branding Icon Revancify Red
-- Don't select Add Splash Animation
 
-Using CLI: `-i custom-branding-icon-revancify-blue` `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-e add-splash-animation`
+
+Using CLI: `-i custom-branding-icon-revancify-blue` `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red`
 
 ### If you want the Original YouTube Icon:
 - Don't select Custom Branding Icon MMT
@@ -90,7 +89,7 @@ Using CLI: `-i theme` `-i materialyou`
 
 ※ You can change the theme by editing `options.json` in an editor and entering the desired HEX code.
 
-### If you want Force Premium Header:
+### If you want to Force Premium Header:
 - Select Force Premium Heading
 
 Using CLI: `-i force-premium-heading`
@@ -99,7 +98,7 @@ Using CLI: `-i force-premium-heading`
 
 ※ If you select this patch option, the Premium Header is enforced and the Premium Header toggle is removed from the Layout settings.
 
-### If you want Splash Animation:
+### If you want the Splash Animation:
 - Select Add Splash Animation
 - Don't select Custom Branding Icon MMT
 - Don't select Custom Branding Icon Revancify Red
