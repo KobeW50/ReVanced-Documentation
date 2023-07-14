@@ -1,6 +1,6 @@
 Information
 ==
-### 1. This document is a guide on how to build ReVanced Extended using the official ReVanced Manager.
+### 1. This document is a guide on how to build ReVanced Extended using the RVX Manager.
 ### 2. To use the RVX Manager, the following conditions must be met:
 - Your device must use the arm64-v8a architecture.
 - Your device must be running Android 8.0+.
