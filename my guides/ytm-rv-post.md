@@ -1,5 +1,7 @@
 # I am deleting my Reddit account. This post will be deleted by a mod when it is outdated.
 
+(The markdown files of this guide and troubleshooting content can be found [here](https://github.com/KobeW50/ReVanced-Documentation/tree/main/my%20guides). Feel free to use them however you like :)
+
 **BE SURE TO SEE MY [COMMENT](https://www.reddit.com/r/revancedapp/comments/131beri/guide_for_installing_yt_music_revanced/jhzjzxo?) WITH ALL OF THE TROUBLESHOOTING INFO.**
 
 
