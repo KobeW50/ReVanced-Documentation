@@ -7,7 +7,7 @@
 
 ### **Before You Begin**
 
-* If you are from Canada please read issue 9 (todo) in my [comment below](https://www.reddit.com/r/revancedapp/comments/131beri/guide_for_installing_yt_music_revanced/jhzjzxo?) before you begin.
+* If you are from Canada please read issue **#10** in my [comment below](https://www.reddit.com/r/revancedapp/comments/131beri/guide_for_installing_yt_music_revanced/jhzjzxo?) before you begin.
 
 * This guide is for non-root installs.
 
@@ -38,7 +38,7 @@
 
 Install [YT Music from the Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music). If it is already installed, make sure it is up-to-date.
 
-(If you are patching to install the patched APK on a different device, **or** you cannot install from the Play Store, download one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). You can find the supported architectures of your device by checking the bottom of the settings in the ReVanced Manager.)
+(If you are patching to install the patched APK on a different device, **or** you cannot install from the Play Store, download one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan to **install** the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). You can find the supported architectures of your device by checking the bottom of the settings in the ReVanced Manager.)
 
 
 
@@ -56,7 +56,7 @@ When you are done selecting the patches that you want, press "Done" and then pre
 
 * **(Optional but recommended)** 
 
-When it is finished patching you can save the APK as a file so that you have it for later use such as sharing it or to save you the trouble of needing to patch again if you get an installation error. To do this, tap the save icon as shown in [this image](https://imgur.com/a/FKD0okE) Then press "Save".
+When it is finished patching you can save the APK as a file so that you have it for later use such as sharing it or to save you the trouble of needing to patch again if you get an installation error. To do this, tap the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
 
 
@@ -78,11 +78,11 @@ Follow these steps so that when you open a YT Music link it will open in the YTM
 
 (If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
 
-a) Uninstall or disable the official YT Music app. Or go to the App info of official YT Music, Set as default / Open by default > Open supported links, Off.
+**a)** Uninstall or disable the official YT Music app. Or go to the App info of official YT Music, Set as default / Open by default > Open supported links, Off.
 
-b) Now open the App info of YTM ReVanced > Set as default / Open by default > Open supported links, On.
+**b)** Now open the App info of YTM ReVanced > Set as default / Open by default > Open supported links, On.
 
-c) Then go back to the previous page. Tap "Supported web addresses" > turn them all On. (If you are on MIUI, tap on "Add link" and check off any URLs. Then press "Add".)
+**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all On. (If you are on MIUI, tap on "Add link" and check off any URLs. Then press "Add".)
 
 * **Android Auto Setup**
 
@@ -90,14 +90,14 @@ c) Then go back to the previous page. Tap "Supported web addresses" > turn them 
 
 Here's how to set it up:
 
-a) You need to have included the `Bypass Certificate Checks` patch when you patched the app.
+**a)** You need to have included the `Bypass Certificate Checks` patch when you patched the app.
 
-b) Once you have it installed with that patch, go to the Android Auto settings on your device.
+**b)** Once you have it installed with that patch, go to the Android Auto settings on your device.
 
-c) Scroll down to "Version and permission info".
+**c)** Scroll down to "Version and permission info".
 
-d) Tap on it 10 times to enter developer mode and then tap "OK" on the popup.
+**d)** Tap on it 10 times to enter developer mode and then tap "OK" on the popup.
 
-e) Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
+**e)** Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
 
-f) Scroll down and make sure that Unknown sources are allowed.
+**f)** Scroll down and make sure that Unknown sources are allowed.
