@@ -66,7 +66,7 @@ Some possibilities:
 
 **b)** You included a patch that is not recommended. Refer to step 3 in the guide. 
 
-**c)**** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#2**.
+**c)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#2**.
 
 **d)** The Google account you used to sign in has parental restrictions.
 
