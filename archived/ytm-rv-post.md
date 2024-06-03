@@ -29,7 +29,7 @@
 
 **a)** Download and install the [latest ReVanced Manager](https://github.com/revanced/revanced-manager/releases/latest). (If you already have it installed, make sure it is the latest version.)
 
-**b)** If you do not have GmsCore, download and install the [ReVanced GmsCore APK]().
+**b)** If you do not have GmsCore, download and install the [ReVanced GmsCore APK](https://github.com/revanced/gmscore/releases/latest).
 
 
 
@@ -38,7 +38,7 @@
 
 Install [YT Music from the Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music). If it is already installed, make sure it is up-to-date.
 
-(If you are patching to install the patched APK on a different device, **or** you cannot install from the Play Store, download one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan to **install** the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). You can find the supported architectures of your device by checking the bottom of the settings in the ReVanced Manager.)
+> If you are patching to install the patched APK on a different device, **or** you cannot install from the Play Store, download one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant for the architecture of the device you plan to **install** the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). You can find the supported architectures of your device by checking the bottom of the settings in the ReVanced Manager.)
 
 
 
@@ -49,14 +49,12 @@ Install [YT Music from the Play Store](https://play.google.com/store/apps/detail
 
 **b)** If you don't have the app/APK installed, open the ReVanced Manager > Patcher > Select an application > **STORAGE**, and then select the YouTube Music APK that you just downloaded from APKmirror.
 
-Now press "Select patches", and then the **Default** patches button, as shown in [this image](https://imgur.com/a/KzO4FlU). Do **NOT** add or remove patches unless you know what you are doing.
+Now press "Select patches", and then the **Default** patches button, as shown in [this image](https://imgur.com/a/KzO4FlU). Don't add or remove patches unless you know what you are doing.
 
 When you are done selecting the patches that you want, press "Done" and then press "Patch". It may take several minutes for the patches to apply. Do not exit the app. 
 
 
-* **(Optional but recommended)** 
-
-When it is finished patching you can save the APK as a file so that you have it for later use such as sharing it or to save you the trouble of needing to patch again if you get an installation error. To do this, tap the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
+> (**Optional**): When it is finished patching you can save the APK as a file so that you have it for later use such as sharing it or to save you the trouble of needing to patch again if you get an installation error. To do this, tap the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
 
 
@@ -65,7 +63,7 @@ When it is finished patching you can save the APK as a file so that you have it 
 
 Press "Install" and wait for it to finish installing. You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then press **"Install anyway"** as shown in [this image](https://imgur.com/a/iLP2m7l).
 
-(If any issues arise check [this comment for troubleshooting info](https://www.reddit.com/r/revancedapp/comments/131beri/guide_for_installing_yt_music_revanced/jhzjzxo?).)
+> If any issues arise check [this comment for troubleshooting info]().
 
 
 
