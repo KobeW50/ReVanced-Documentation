@@ -1,5 +1,3 @@
-> (The markdown files of this guide and troubleshooting content can be found [here](https://github.com/KobeW50/ReVanced-Documentation/tree/main/my%20guides). Feel free to use them however you like :)
-
 **BE SURE TO SEE MY [COMMENT]() WITH ALL OF THE TROUBLESHOOTING INFO.**
 
 
