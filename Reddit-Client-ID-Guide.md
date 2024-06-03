@@ -23,7 +23,7 @@ Client ID Setup
 
 > Don't add a `description` or `about url`.
 
-**5.** Set the "**redirect uri**" according to this table:
+**5.** Set the **`redirect uri`** according to this table:
 
 | App | Redirect URI |
 |---|---|
