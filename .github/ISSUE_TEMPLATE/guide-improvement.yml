@@ -1,0 +1,20 @@
+name: Guide improvement
+description: Share problems or suggestions for a guide.
+body:
+  - type: textarea
+    attributes:
+      label: Problem / Suggestion
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: This issue will be closed if you don't follow the checklist below.
+      options:
+        - label: This issue is not asking for troubleshooting assistance.
+          required: true
+        - label: I have chosen an appropriate title.
+          required: true
+
+
