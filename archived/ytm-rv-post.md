@@ -74,23 +74,24 @@ Press "Install" and wait for it to finish installing. You may get a pop-up sayin
 
 Follow these steps so that when you open a YT Music link it will open in the YTM ReVanced app instead of the official YT Music app.
 
-(If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After installing it, open it and tap `Manage applications`. Then continue with the steps below.)
 
 **a)** Uninstall or disable the official YT Music app. Or go to the App info of official YT Music, Set as default / Open by default > Open supported links, Off.
 
 **b)** Now open the App info of YTM ReVanced > Set as default / Open by default > Open supported links, On.
 
-**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all On. (If you are on MIUI, tap on "Add link" and check off any URLs. Then press "Add".)
+**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all On.
+
 
 * **Android Auto Setup**
 
-**Note:** From my experience and from what I heard, the YT Music ReVanced home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone and then control it from Android Auto.
+> **Note:** From my experience and from what I heard, the YT Music ReVanced home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone and then control it from Android Auto.
 
 Here's how to set it up:
 
-**a)** You need to have included the `Bypass Certificate Checks` patch when you patched the app.
+**a)** You need to include the `Bypass Certificate Checks` patch when you patch the app.
 
-**b)** Once you have it installed with that patch, go to the Android Auto settings on your device.
+**b)** Once you have it installed with that patch, go to your device's Android Auto settings.
 
 **c)** Scroll down to "Version and permission info".
 
@@ -98,4 +99,4 @@ Here's how to set it up:
 
 **e)** Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
 
-**f)** Scroll down and make sure that Unknown sources are allowed.
+**f)** Scroll down and make sure that "Unknown sources" are allowed.
