@@ -2,7 +2,8 @@ Info
 =
 This guide was updated on May 30th, 2024. Things may have changed from when you last read it.
 
-If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
+If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide.
+
 
 
 Client ID Setup
@@ -43,13 +44,10 @@ Client ID Setup
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
-> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
->
-> (If you don't see the `add developer:` field, press the `edit` button in the bottom-left.)
-> 
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/edit-button.jpg" alt="edit-button" width="400"/>
+
 
 
 Patching Setup
