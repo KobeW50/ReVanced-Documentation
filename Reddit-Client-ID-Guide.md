@@ -10,7 +10,7 @@ Client ID Setup
 
 Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
 
-Select, `are you a developer? Create an app`.
+Select `are you a developer? Create an app`.
 
 ![are-you-a-developer-create-an-app](https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg)
 
@@ -35,7 +35,7 @@ Select, `are you a developer? Create an app`.
 
 (Many users experience rate limits while using patched Boost.)
 
-4. Press, `create app`.
+4. Press `create app`.
 
 ![create-application](https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg)
 
@@ -43,13 +43,13 @@ Select, `are you a developer? Create an app`.
 
 ![copy-client-id](https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg)
 
-> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside for the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
 > ![add-developer](https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/add-developer.jpg)
 >
 > (If you don't see the `add developer:` field, press the `edit` button in the bottom-left.)
 > 
-> ![edit-button](https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/edit-button.jpg)
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/edit-button.jpg" alt="edit-button" width="400"/>
 
 
 Patching Setup
