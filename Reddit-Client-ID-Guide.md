@@ -1,5 +1,6 @@
 Info
 =
+
 This guide was updated on May 30th, 2024. Things may have changed from when you last read it.
 
 If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide.
@@ -122,20 +123,22 @@ Done!
 Troubleshooting
 =
 
+### 1. "Please match the requested format." error when signing in
 
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" alt="credentials-format-error" width="400"/>
 
-If you get the error pictured above, enter in your credentials manually instead of pasting or auto-entering it.
+If you get the error pictured above, enter in your username and password manually instead of pasting or auto-entering it.
 
-Other errors when signing in
+### 2. Errors when signing in
 
-This usually means that something is wrong with your client ID configuration. Here are some common mistakes:
+Sign-in errors usually mean that something is wrong with your client ID configuration. Below are some common mistakes. If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
 
-If you are certain that you do not have any of the issues below, create a new client ID and try again from scratch.
+**a)** The `redirect URI` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
-The redirect URI is not EXACTLY as shown (maybe it has an extra "/", a capital letter, or you put “https” instead of “http” or vice versa.)
+> Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, or an extra `/`, etc.
 
-The app type is not set to “Installed app”.
+**b)** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
-You accidentally added an extra space when entering the client ID in the Manager.
+**c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to setup a new client ID.
 
-The redirect URI is set for a different application. (Example: it is set to “http://redditsync/auth” even though the client ID will be used for an app other than Sync.)
+**d)** The `redirect URI` is set for the wrong application. (Example: it is set to “http://redditsync/auth” even though the client ID will be used for an app other than Sync.)
