@@ -141,4 +141,4 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 
 **c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to setup a new client ID.
 
-**d)** The `redirect URI` is set for the wrong application. (Example: it is set to “http://redditsync/auth” even though the client ID will be used for an app other than Sync.)
+**d)** The `redirect URI` is set for the wrong application. (Example: it is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.)
