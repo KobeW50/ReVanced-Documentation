@@ -1,0 +1,21 @@
+name: Question
+description: Ask Kobe a question.
+body:
+  - type: textarea
+    attributes:
+      label: Question
+      description: |
+        - Explain your question clearly and in detail
+        - For troubleshooting assistance, it is generally best to ask in the appropriate Discord, Subreddit, Telegram, etc.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: This issue will be closed if you don't follow the checklist below.
+      options:
+        - label: All requested information has been provided properly.
+          required: true
+        - label: I have chosen an appropriate title.
+          required: true
