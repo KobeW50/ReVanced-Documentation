@@ -15,6 +15,7 @@ Client ID Setup
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="800"/>
 
+
 **3.** Enter an app name (it doesn't matter what you call it).
 
 **4.** Set the type to "installed app".
@@ -40,96 +41,86 @@ Client ID Setup
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg" alt="create-application" width="400"/>
 
+
 **7.** Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
-> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+
+> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
 
 
 
-Patching Setup
+Patching
 =
 
-Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and are about to patch Sync, uninstall the Sync app.)
+**1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
 
-You may want to export the settings configuration from your reddit client app before uninstalling.
+> Remember to export your settings configuration before uninstalling if your Reddit client has the option.
 
-Install (or update to) the latest version of the ReVanced Manager.
+**2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
+**3.** Download (but do **not** install) an APK of the app you want to patch using the link:
 
-Download the APK
+- [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-06-30-1339-release/sync-for-reddit-v23-06-30-1339-2-android-apk-download/)
 
-Do not install the APK after you download it!
+- [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
 
-Sync download
+- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-2-3-release/infinity-for-reddit-7-2-3-2-android-apk-download/)
 
-Boost download 
+- [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
 
-Relay download
+- [Relay download](https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/)
 
-Reddit is Fun (RIF) download
+- [Slide download](https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/slide-for-reddit-6-7-1-release/slide-for-reddit-6-7-1-2-android-apk-download/)
 
-BaconReader download
+- [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
-Infinity download
+- [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (You can use the latest version, but there will be a popup that will only stop appearing after you click on "Learn More & Register.")
 
-Slide download
+> Do not install the APK after you download it!
 
-Joey download from apkmonk.com (If you use the latest version there will be a popup that will only stop appearing after you click on  “Learn More & Register”)
+**4.** Launch the ReVanced Manager > Patcher > Select an application.
 
-Do not install the APK after you download it!
+**5.** Press the `Storage` button and then select the APK file that you downloaded.
 
-Open the Manager > Patcher > Select an application.
-
-Press the “Storage” button and then select the APK file that you downloaded.
-
-Tap on the “Selected patches” card.
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/storage-button.png" alt="storage-button" width="400"/>
 
 
-(Most Reddit clients only have the Spoof Client patch.)
+**6.** Tap on the `Selected patches` card.
+
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/selected-patches.png" alt="selected-patches" width="400"/>
 
 
+**7.** Press the `Default` button and then press the ⚙️ icon by the "Spoof client" patch.
 
-Tap on the “Default” button and then press the gear icon by the Spoof client patch.
-
-
-
-Enter the client ID that you copied earlier and then press “Save”. Make sure there are no extra spaces.
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/default-patches.jpg" alt="default-patches" width="400"/>
 
 
+**8.** Enter the client ID that you copied earlier and then press `Save`. Make sure there are no extra spaces.
 
-Press “Done” and then “Patch” and wait for it to finish.
-
-(optional) If you want to save or share the patched APK file, you can export it by using the save button in the bottom left corner.
-
-Install the patched APK.
-
-If you get a pop-up from Google Play Protect while installing, press “More details” and then press “Install anyway”.
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" alt="client-id-patch-option" width="400"/>
 
 
+**9.** Press `Done` and then `Patch` and wait for it to finish.
 
-Import the settings backup into your patched Reddit client app (if you created a backup earlier).
+**10.** After patching is complete, press the `Install` button.
+
+> If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
+>
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" alt="install-anyway" width="400"/>
+
+
+> (**Optional**): If you want to save or share the patched APK file, you can export it by using the save button in the bottom left corner (opposite the `Install` button).
 
 Done!
 
-(If needed, you can ask for assistance in the ReVanced Discord, Subreddit, or Telegram.)
 
 
-Multiple Users
-
-If you want to add multiple accounts to your patched app, go back to this page and edit the developed application. Then add your other username as a developer and press Enter on the keyboard. Then press the update button.
-
-
-
-
-
-
-
-
-Basic Troubleshooting
+Troubleshooting
+=
 
 
 
