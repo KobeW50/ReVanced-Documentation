@@ -1,8 +1,6 @@
-# I am deleting my Reddit account. This post will be deleted by a mod when it is outdated.
+> (The markdown files of this guide and troubleshooting content can be found [here](https://github.com/KobeW50/ReVanced-Documentation/tree/main/my%20guides). Feel free to use them however you like :)
 
-(The markdown files of this guide and troubleshooting content can be found [here](https://github.com/KobeW50/ReVanced-Documentation/tree/main/my%20guides). Feel free to use them however you like :)
-
-**BE SURE TO SEE MY [COMMENT](https://www.reddit.com/r/revancedapp/comments/131beri/guide_for_installing_yt_music_revanced/jhzjzxo?) WITH ALL OF THE TROUBLESHOOTING INFO.**
+**BE SURE TO SEE MY [COMMENT]() WITH ALL OF THE TROUBLESHOOTING INFO.**
 
 
 
@@ -31,7 +29,7 @@
 
 **a)** Download and install the [latest ReVanced Manager](https://github.com/revanced/revanced-manager/releases/latest). (If you already have it installed, make sure it is the latest version.)
 
-**b)** If you do not have Vanced MicroG, download and install the [Vanced MicroG APK](https://github.com/TeamVanced/VancedMicroG/releases/tag/v0.2.24.220220-220220001). If you already have Vanced MicroG you can skip this step.
+**b)** If you do not have GmsCore, download and install the [ReVanced GmsCore APK]().
 
 
 
