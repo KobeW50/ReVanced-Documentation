@@ -8,18 +8,19 @@ If needed, you can ask for assistance in the ReVanced [Discord](https://discord.
 Client ID Setup
 =
 
-1. Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
+**1.** Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
 
-2. Select `are you a developer? Create an app`.
+**2.** Select `are you a developer? Create an app`.
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="800"/>
 
+**3.** Enter an app name (it doesn't matter what you call it).
 
-3. Enter an app name (it doesn't matter what you call it).
+**4.** Set the type to "installed app".
 
-4. Set the type to "installed app".
+> Don't add a `description` or `about url`.
 
-5. Set the "**redirect uri**" according to this table:
+**5.** Set the "**redirect uri**" according to this table:
 
 | App | Redirect URI |
 |---|---|
@@ -32,21 +33,19 @@ Client ID Setup
 | BaconReader | `http://baconreader.com/auth` |
 | Joey | `https://127.0.0.1:65023/authorize_callback` |
 
-> Don't add a `description` or `about url`.
-
 (Many users experience rate limits while using patched Boost.)
 
-6. Press `create app`.
+**6.** Press `create app`.
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg" alt="create-application" width="400"/>
 
-7. Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
+**7.** Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
 > (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under you must add those accounts as developers to the application you just made. To add a developer, enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/add-developer.jpg" alt="add-developer" width="400"/>
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
 >
 > (If you don't see the `add developer:` field, press the `edit` button in the bottom-left.)
 > 
@@ -54,6 +53,7 @@ Client ID Setup
 
 
 Patching Setup
+=
 
 Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and are about to patch Sync, uninstall the Sync app.)
 
