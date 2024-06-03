@@ -59,7 +59,7 @@ Patching
 
 **1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
 
-> Remember to export your settings configuration before uninstalling if your Reddit client has the option.
+> Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
 
 **2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
