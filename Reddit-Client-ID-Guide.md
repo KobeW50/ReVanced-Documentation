@@ -127,7 +127,7 @@ Troubleshooting
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" alt="credentials-format-error" width="400"/>
 
-If you get the error pictured above, enter in your username and password manually instead of pasting or auto-entering it.
+If you get the error pictured above, enter in your username and password manually instead of pasting or auto-entering them.
 
 ### 2. Errors when signing in
 
