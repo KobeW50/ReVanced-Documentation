@@ -77,7 +77,7 @@ Patching
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
-- [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (You can use the latest version, but there will be a popup that will only stop appearing after you click on "Learn More & Register.")
+- [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (In the latest version there is a popup that only stops appearing after you click on "Learn More & Register.")
 
 - [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
 
@@ -131,11 +131,13 @@ If you get the error pictured above, enter in your username and password manuall
 
 ### 2. Errors when signing in
 
-Sign-in errors usually mean that something is wrong with your client ID configuration. Below are some common mistakes. If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
+Sign-in errors usually mean that something is wrong with your client ID configuration. Below are some common mistakes. 
+
+> If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
 
 **a)** The `redirect URI` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
-> Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, or an extra `/`, etc.
+> Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, an extra `/`, etc.
 
 **b)** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
