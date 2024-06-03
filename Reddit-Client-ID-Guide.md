@@ -12,7 +12,7 @@ Client ID Setup
 
 2. Select `are you a developer? Create an app`.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="700"/>
 
 
 3. Enter an app name (it doesn't matter what you call it).
