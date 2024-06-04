@@ -48,7 +48,9 @@ Client ID Setup
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
 
-> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under, you must add the accounts as developers to the application you just made.
+>
+> To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
 
@@ -135,7 +137,7 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 
 > If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
 
-**a)** The `redirect URI` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
+**a)** The `redirect uri` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
 > Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, an extra `/`, etc.
 
@@ -143,4 +145,6 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 
 **c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to setup a new client ID.
 
-**d)** The `redirect URI` is set for the wrong application. (Example: It is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.) Correct the issue [here](https://www.reddit.com/prefs/apps).
+**d)** The `redirect uri` is set for the wrong app. Correct the issue [here](https://www.reddit.com/prefs/apps).
+
+> Example: It is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.
