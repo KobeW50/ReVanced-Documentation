@@ -62,7 +62,9 @@ Client ID Setup
 Patching
 =
 
-**1.** Uninstall the official version of the app you will patch. (Example: If you have Sync installed and are about to patch Sync, uninstall the Sync app.)
+**1.** Uninstall the official version of the app you will patch. 
+
+> Example: If you have Sync installed and are about to patch Sync, uninstall the Sync app.
 
 > [!TIP] 
 > Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
