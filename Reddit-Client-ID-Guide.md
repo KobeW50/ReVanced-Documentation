@@ -51,9 +51,9 @@ Client ID Setup
 
 
 > [!TIP]
-> If you want to be able to sign in to the patched app with Reddit accounts aside from the one tied to the client ID, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+> If you want to be able to sign in to the patched app with Reddit accounts aside from the one tied to the client ID, you must add the accounts as developers to the application you just made.
 >
-> To add a developer, edit the application and enter the username of the account to add in the `add developer:` field. Press **Enter** on your keyboard and then press the `update app` button.
+> To add a developer, edit the application and enter the account username in the `add developer:` field. Press **Enter** on your keyboard and then press the `update app` button.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
 
@@ -62,7 +62,7 @@ Client ID Setup
 Patching
 =
 
-**1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
+**1.** Uninstall the official version of the app you will patch. (Example: If you have Sync installed and are about to patch Sync, uninstall the Sync app.)
 
 > [!TIP] 
 > Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
@@ -136,7 +136,7 @@ Troubleshooting
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" alt="credentials-format-error" width="400"/>
 
-If you get the error pictured above, enter in your username and password manually instead of pasting or auto-entering them.
+If you get the error pictured above, enter your username and password manually instead of pasting or auto-entering them.
 
 ### 2. Errors when signing in
 
@@ -152,7 +152,7 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 
 **b)** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
-**c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to setup a new client ID.
+**c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to set up a new client ID.
 
 **d)** The `redirect uri` is set for the wrong app. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
