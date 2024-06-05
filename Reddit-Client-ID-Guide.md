@@ -64,7 +64,8 @@ Patching
 
 **1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
 
-> [!TIP] Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
+> [!TIP] 
+> Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
 
 **2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
@@ -121,7 +122,8 @@ Patching
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" alt="install-anyway" width="400"/>
 
 
-> (**Optional**): If you want to save or share the patched APK file, you can export it by using the save button in the bottom left corner (opposite the `Install` button).
+> [!TIP]
+> If you want to save or share the patched APK file, you can export it by using the save button in the bottom left corner (opposite the `Install` button).
 
 Done!
 
@@ -140,10 +142,12 @@ If you get the error pictured above, enter in your username and password manuall
 
 Sign-in errors usually mean that something is wrong with your client ID configuration. Below are some common mistakes. 
 
+> [!NOTE]
 > If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
 
 **a)** The `redirect uri` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
+> [!TIP]
 > Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, an extra `/`, etc.
 
 **b)** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
