@@ -50,7 +50,6 @@ Client ID Setup
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
 
-<<<<<<< HEAD
 > [!TIP]
 > If you want to be able to sign in to the patched app with Reddit accounts aside from the one tied to the client ID, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
@@ -65,8 +64,7 @@ Patching
 
 **1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
 
-> [!TIP]
-> Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
+> [!TIP] Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
 
 **2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
