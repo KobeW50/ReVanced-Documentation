@@ -21,6 +21,7 @@ Client ID Setup
 
 **4.** Set the type to "installed app".
 
+> [!WARNING] 
 > Don't add a `description` or `about url`.
 
 **5.** Set the **`redirect uri`** according to this table:
@@ -36,7 +37,8 @@ Client ID Setup
 | Joey | `https://127.0.0.1:65023/authorize_callback` |
 | Boost | `http://rubenmayayo.com` |
 
-> Note: Many users experience rate limits while using patched Boost.
+> [!WARNING] 
+> Many users experience rate limits while using patched Boost.
 
 **6.** Press `create app`.
 
@@ -48,7 +50,8 @@ Client ID Setup
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
 
 
-> (**Optional**): If you want to be able to sign in to the patched app with Reddit accounts aside from the one that the client ID is under, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
+> [!TIP]
+> If you want to be able to sign in to the patched app with Reddit accounts aside from the one tied to the client ID, you must add the accounts as developers to the application you just made. To add a developer, edit the application and enter the username (without the "u/") of the account to add in the `add developer:` field and press **Enter** on your keyboard. Then press the `update app` button.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
 
@@ -59,6 +62,7 @@ Patching
 
 **1.** Uninstall the official version of the app you are going to patch. (Example: If you have Sync installed, and you are about to patch Sync, uninstall the Sync app.)
 
+> [!TIP]
 > Remember to export your settings configuration before uninstalling (if your Reddit client has the option).
 
 **2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
@@ -81,7 +85,8 @@ Patching
 
 - [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
 
-> Do not install the APK after you download it!
+> [!WARNING]
+> Do not install the APK after you download it.
 
 **4.** Launch the ReVanced Manager > Patcher > Select an application.
 
@@ -109,6 +114,7 @@ Patching
 
 **10.** After patching is complete, press the `Install` button.
 
+> [!NOTE]
 > If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" alt="install-anyway" width="400"/>
