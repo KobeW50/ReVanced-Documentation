@@ -17,14 +17,14 @@ Client ID Setup
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="800"/>
 
 
-**3.** Enter an app name (it doesn't matter what you call it).
+3. Enter an app name (it doesn't matter what you call it).
 
-**4.** Set the type to "installed app".
+4. Set the type to "installed app".
 
 > [!WARNING] 
 > Don't add a `description` or `about url`.
 
-**5.** Set the **`redirect uri`** according to this table:
+5. Set the **`redirect uri`** according to this table:
 
 | App | Redirect URI |
 |---|---|
