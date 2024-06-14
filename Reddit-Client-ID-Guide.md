@@ -114,7 +114,7 @@ Patching
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" alt="client-id-patch-option" width="400"/>
 
 
-**9.** Press `Done` and then `Patch` and wait for it to finish.
+**9.** Press `Done` and then `Patch`, and then wait for it to finish.
 
 **10.** After patching is complete, press the `Install` button.
 
