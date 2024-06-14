@@ -38,7 +38,7 @@ Client ID Setup
 | Boost | `http://rubenmayayo.com` |
 
 > [!WARNING] 
-> Many users experience rate limits while using patched Boost.
+> Many users experience rate limiting when using patched Boost.
 
 **6.** Press `create app`.
 
