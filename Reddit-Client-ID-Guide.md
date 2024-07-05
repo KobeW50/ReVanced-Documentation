@@ -28,8 +28,8 @@ Client ID Setup
 
 | App | Redirect URI |
 |---|---|
-| Sync | ```http://redditsync/auth``` |
-| Infinity | ```infinity://localhost``` |
+| Sync | `http://redditsync/auth` |
+| Infinity | `infinity://localhost` |
 | RIF | `redditisfun://auth` |
 | Relay | `dbrady://relay` |
 | Slide | `http://www.ccrama.me` |
