@@ -37,7 +37,7 @@ Client ID Setup
 | Joey | `https://127.0.0.1:65023/authorize_callback` |
 | Boost | `http://rubenmayayo.com` |
 
-> [!WARNING] 
+> [!CAUTION] 
 > Many users experience rate limiting when using patched Boost.
 
 **6.** Press `create app`.
@@ -118,7 +118,7 @@ Patching
 
 **10.** After patching is complete, press the `Install` button.
 
-> [!NOTE]
+> [!IMPORTANT]
 > If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" alt="install-anyway" width="400"/>
