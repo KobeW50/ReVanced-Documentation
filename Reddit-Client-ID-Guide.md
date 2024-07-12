@@ -31,14 +31,12 @@ Client ID Setup
 | Sync | `http://redditsync/auth` |
 | Infinity | `infinity://localhost` |
 | RIF | `redditisfun://auth` |
+| Boost | `http://rubenmayayo.com` |
 | Relay | `dbrady://relay` |
 | Slide | `http://www.ccrama.me` |
 | BaconReader | `http://baconreader.com/auth` |
 | Joey | `https://127.0.0.1:65023/authorize_callback` |
-| Boost | `http://rubenmayayo.com` |
 
-> [!CAUTION] 
-> Some users experience rate limiting when using patched Boost.
 
 **6.** Press `create app`.
 
@@ -79,6 +77,8 @@ Patching
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
 
+- [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
+
 - [Relay download](https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/)
 
 - [Slide download](https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/slide-for-reddit-6-7-1-release/slide-for-reddit-6-7-1-2-android-apk-download/)
@@ -86,8 +86,6 @@ Patching
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
 - [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (In the latest version there is a popup that only stops appearing after you click on "Learn More & Register.")
-
-- [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
 
 > [!WARNING]
 > Do not install the APK after you download it.
