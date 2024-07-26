@@ -69,21 +69,21 @@ Patching
 
 **2.** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
-**3.** Download (but do **not** install) an APK of the app you want to patch using the link:
+**3.** Download the latest version of the app you want to patch using the following download links: (make sure you download the APK, **not** the bundle)
 
-- [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-06-30-1339-release/sync-for-reddit-v23-06-30-1339-2-android-apk-download/)
+- [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 
-- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-2-3-release/infinity-for-reddit-7-2-3-2-android-apk-download/)
+- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/)
 
-- [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
+- [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/)
 
-- [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/boost-for-reddit-1-12-12-release/boost-for-reddit-1-12-12-android-apk-download/)
+- [Boost download](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/)
 
-- [Relay download](https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/)
+- [Relay download](https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/)
 
-- [Slide download](https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/slide-for-reddit-6-7-1-release/slide-for-reddit-6-7-1-2-android-apk-download/)
+- [Slide download](https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/)
 
-- [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
+- [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/)
 
 - [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (In the latest version there is a popup that only stops appearing after you click on "Learn More & Register.")
 
