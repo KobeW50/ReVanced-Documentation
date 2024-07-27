@@ -85,8 +85,6 @@ Patching
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/)
 
-- [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (In the latest version there is a popup that only stops appearing after you click on "Learn More & Register.")
-
 > [!WARNING]
 > Do not install the APK after you download it.
 
