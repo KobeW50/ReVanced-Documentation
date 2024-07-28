@@ -6,5 +6,5 @@
 
 # Info
 
-Please open an issue if you feel that a guide can be improved or if you have a question. Thanks!
+Please open an issue if you feel that a guide can be improved or if you have a question. Before creating a pull request, please open an issue to ensure that the changes are suitable. Thanks!
 
