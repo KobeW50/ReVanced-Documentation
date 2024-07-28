@@ -73,7 +73,14 @@ Patching
 
 - [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-06-30-1339-release/sync-for-reddit-v23-06-30-1339-2-android-apk-download/)
 
-- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-2-3-release/infinity-for-reddit-7-2-3-2-android-apk-download/)
+- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-2-9-release/infinity-for-reddit-7-2-9-2-android-apk-download/)
+
+<details>
+<summary><strong>Info for Infinity users</strong></summary>
+<br>
+
+I haven't tested any Infinity version newer than the specific one linked above, but newer versions may work too. If you want to try patching the latest version, you can find and download it from [here](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/). Make sure the variant you downlaod is **not** the bundle variant, which is an `.apkm` file instead of an `.apk`. Lastly, during patching, be sure to look at the patch log to ensure that the patches apply successfully.
+</details>
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
 
@@ -85,7 +92,7 @@ Patching
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
-- [Joey download from apkmonk.com](https://www.apkmonk.com/download-app/o.o.joey/5_o.o.joey_2023-05-27.apk/) (In the latest version there is a popup that only stops appearing after you click on "Learn More & Register.")
+- [Joey download from apkmonk.com](https://www.apkmonk.com/app/o.o.joey/)
 
 > [!WARNING]
 > Do not install the APK after you download it.
