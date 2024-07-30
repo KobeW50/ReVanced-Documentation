@@ -1,6 +1,8 @@
 Info
 =
 
+For this process, you will need an Android device running Android 8 or newer.
+
 This guide was updated on May 30th, 2024. Things may have changed from when you last read it.
 
 If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide.
