@@ -81,7 +81,7 @@ Patching
   <summary><strong>Info for Infinity users</strong></summary>
   <br>
 
-  I haven't tested any Infinity version newer than the specific one linked above, but newer versions may work too. If you want to try patching the latest version, you can find and download it from [here](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/). Make sure the variant you download is **not** the bundle variant, which is an `apkm` file instead of an `apk`. Lastly, during patching, be sure to look at the patch log to ensure that the patches apply successfully.
+  I haven't tested any Infinity version newer than the specific one linked above, but newer versions may work too. If you want to try patching the latest version, you can find and download it from [apkmirror.com](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/) or [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases). When downloading from apkmirror, make sure the variant you download is **not** the bundle variant, which is an `apkm` file instead of an `apk`. When downloading from GitHub, do not download the Patreon build. Lastly, during patching, be sure to look at the patch log to ensure that the patches apply successfully.
   </details>
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
