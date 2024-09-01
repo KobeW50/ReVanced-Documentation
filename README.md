@@ -6,7 +6,7 @@
 
 # Info
 
-All documentation is not official. These are just things I personally maintain.
+All documentation in this repository is not official. These are just things I personally maintain.
 
 Please open an issue if you have a question or suggestion, or if you plan to open a pull request. Thanks!
 
