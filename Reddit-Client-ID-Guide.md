@@ -1,11 +1,13 @@
 Info
 =
 
-- For this process, you will need an Android device running Android 8 or newer.
+- For this process, you will need an Android device running Android 8 or newer
 
-- The last significant update to this guide was on July 27th, 2024.
+- The last significant update to this guide was on July 27th, 2024
 
-- If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide.
+- This guide is **not** for patching the regular Reddit app. it is only for patching 3rd party Reddit clients (Sync, Infinity, RIF, etc.)
+
+- If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide
 
 
 
@@ -94,7 +96,7 @@ Patching
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
-- [Joey download from apkmonk.com](https://www.apkmonk.com/app/o.o.joey/)
+- [Joey download (from apkmonk.com)](https://www.apkmonk.com/app/o.o.joey/)
 
 > [!WARNING]
 > Do not install the APK after you download it.
