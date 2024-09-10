@@ -9,6 +9,10 @@ Info
 
 - If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide
 
+> [!IMPORTANT]
+>
+> I will be deleting my GitHub account before October 2024! If you want to save any of my guides before they are deleted, create a fork of this repository!
+
 
 
 Client ID Setup
