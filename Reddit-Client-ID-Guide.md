@@ -12,6 +12,8 @@ Info
 > [!IMPORTANT]
 >
 > I will be deleting my GitHub account before October 2024! If you want to save any of my guides before they are deleted, create a fork of this repository!
+>
+> The [Google Doc version of the guide](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit?usp=drivesdk) will stay up for longer, but it will also be deleted in the future. Sorry :(
 
 
 
