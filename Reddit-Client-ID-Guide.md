@@ -11,9 +11,7 @@ Info
 
 > [!IMPORTANT]
 >
-> I will be deleting my GitHub account before October 2024! If you want to save any of my guides before they are deleted, create a fork of this repository!
->
-> The [Google Doc version of the guide](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit?usp=drivesdk) will stay up for longer, but it will also be deleted in the future. Sorry :(
+> I do not plan to update this guide in the future. If someone forks this repository and maintains the guide, I will link it here so others can find it. I will not get any notifications from GitHub. The best way to reach me is via email: kobew5050@gmail.com
 
 
 
