@@ -1,4 +1,4 @@
-> [!WARING]
+> [!WARNING]
 >
 > I will be deleting my GitHub account before October 2024! If you want to save any of my guides before they are deleted, create a fork of this repository!
 
