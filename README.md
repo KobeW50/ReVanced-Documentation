@@ -1,3 +1,7 @@
+> [!WARING]
+>
+> I will be deleting my GitHub account before October 2024! If you want to save any of my guides before they are deleted, create a fork of this repository!
+
 # Quick links
 
 - [Simplified Reddit Client ID Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md#info)
