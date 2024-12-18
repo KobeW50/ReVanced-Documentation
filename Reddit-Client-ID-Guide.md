@@ -77,7 +77,7 @@ Patching
 
 - [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-06-30-1339-release/sync-for-reddit-v23-06-30-1339-2-android-apk-download/)
 
-- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-2-9-release/infinity-for-reddit-7-2-9-2-android-apk-download/)
+- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-4-1-release/infinity-for-reddit-7-4-1-2-android-apk-download/)
 
   <details>
   <summary><strong>Info for Infinity users</strong></summary>
