@@ -1,6 +1,6 @@
 Last updated: Jan 19, 2025
 
-**A better version of this guide is available [here](TODO)**
+**A better version of this guide is available [here](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md#before-you-begin)**
 
 
 
