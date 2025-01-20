@@ -19,7 +19,7 @@ Last updated: Jan 19, 2025
 
 **1.2)** Download, but do **NOT** install this [YouTube 19.47.53 APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/). (This is the currently suggested YouTube APK for patching.)
 
-> For a more robust method of downloading the YouTube APK, see [this comment](TODO).
+> For a more robust method of downloading the YouTube APK, see [this comment](https://www.reddit.com/r/revancedapp/comments/1i5gwfu/comment/m83ps9v/).
 
 
 
@@ -36,7 +36,7 @@ Last updated: Jan 19, 2025
 
 **2.5)** ReVanced Manager should now show the YouTube app selected, with several dozen selected patches. Press the Patch button to begin patching.
 
-> If you want to customize the patch selection, see [this comment](TODO).
+> If you want to customize the patch selection, see [this comment](https://www.reddit.com/r/revancedapp/comments/1i5gwfu/comment/m83ps9v/).
 
 **2.6)** Keep ReVanced Manager open while the app is being patched. Make sure no errors occur. (The patch log should be easily readable.)
 
@@ -53,7 +53,7 @@ Last updated: Jan 19, 2025
 
 **3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Huawei device, be sure to install the special version for your device.
 
-You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this comment](TODO) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
+You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this comment](https://www.reddit.com/r/revancedapp/comments/1i5gwfu/comment/m83ps9v/) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
 
 
 
