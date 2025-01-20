@@ -1,3 +1,5 @@
+# Guide to patch Reddit clients
+
 Info
 =
 
