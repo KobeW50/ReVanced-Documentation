@@ -49,12 +49,12 @@ Last updated: Jan 19, 2025
 > [!TIP]
 > You can also export the patched APK file using the button on the bottom left.
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/yt-revanced-guide/export-apk.png" alt="are-you-a-developer-create-an-app" width="400"/>
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/yt-revanced-guide/export-apk.png" alt="are-you-a-developer-create-an-app" width="250"/>
 
 > [!NOTE]
 > If there is a popup saying that the installation was blocked because it is an unknown app, press "**More details**" and then "**Install anyway**".
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/yt-revanced-guide/install-anyway_old.jpeg" alt="install-anyway" width="400"/>
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/yt-revanced-guide/install-anyway_old.jpeg" alt="install-anyway" width="200"/>
 
 **3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Hauwei device, be sure to install the special version for your device.
 
