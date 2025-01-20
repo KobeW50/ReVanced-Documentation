@@ -58,7 +58,7 @@ Last updated: Jan 19, 2025
 
 **3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Huawei device, be sure to install the special version for your device.
 
-You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this comment](TODO) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
+You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this page](https://github.com/KobeW50/ReVanced-Documentation/blob/main/reddit_posts/YT-ReVanced-Guide-comment.md) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
 
 
 
@@ -68,7 +68,6 @@ ___
 To update, you will need to download the suggested YouTube APK, patch it, and install it. Of course make sure your ReVanced Manager is up-to-date. There is no reason to uninstall your current YouTube ReVanced or ReVanced Manager when updating.
 
 ___
-
 [^1]: Instead of relying on this guide (which is manually updated) to get a YouTube APK, it's best to use the YouTube version suggested in ReVanced Manager, as shown in [this image](https://raw.githubusercontent.com/KobeW50/ReVanced-Documentation/refs/heads/main/images/yt-revanced-guide/suggested-version.png). Tap on the suggested version in ReVanced Manager to open a search for that YouTube APK. Find and open the result from apkmirror.com with the suggested version. You'll need to make sure that you download the `nodpi` variant of the suggested YouTube version rather than the bundle variant, as shown in [this image](https://raw.githubusercontent.com/KobeW50/ReVanced-Documentation/refs/heads/main/images/yt-revanced-guide/apkmirror-youtube.png).
 
 [^2]: To change the patch selection, enable the `Allow changing patch selection` option in the ReVanced Manager settings. Then, after selecting the YouTube APK from storage, press the Selected patches and configure the patches and patch options to your liking. If you don't understand what something does it's best to not tinker with it.
