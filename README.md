@@ -2,6 +2,8 @@
 
 - [Simplified Reddit Client ID Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md#info)
 
+- [YouTube ReVanced Guide for Dummies](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md)
+
 - [Archived Guides](https://github.com/KobeW50/ReVanced-Documentation/tree/main/archived)
 
 # Info
