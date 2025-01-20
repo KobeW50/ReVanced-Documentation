@@ -56,7 +56,7 @@ Last updated: Jan 19, 2025
 >
 > <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/yt-revanced-guide/install-anyway_old.jpeg" alt="install-anyway" width="280"/>
 
-**3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Hauwei device, be sure to install the special version for your device.
+**3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Huawei device, be sure to install the special version for your device.
 
 You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this comment](TODO) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
 

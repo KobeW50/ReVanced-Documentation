@@ -51,7 +51,7 @@ Last updated: Jan 19, 2025
 
 > If there is a popup saying that the installation was blocked because it is an unknown app, press "**More details**" and then "**Install anyway**" as shown [here](https://raw.githubusercontent.com/KobeW50/ReVanced-Documentation/refs/heads/main/images/yt-revanced-guide/install-anyway_old.jpeg).
 
-**3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Hauwei device, be sure to install the special version for your device.
+**3.2)** If ReVanced GmsCore is not installed, you will need to install it in order for YouTube ReVanced to run in a non-root environment. If it's not installed, the [download page](https://github.com/ReVanced/GmsCore/releases/latest) will automatically open when you try opening YouTube ReVanced. If you are using a Huawei device, be sure to install the special version for your device.
 
 You are now done! Note that there is a section in the YouTube ReVanced settings for configuring the ReVanced features. Also, see [this comment](TODO) for info on making YouTube links open in YouTube ReVanced and setting up the external download feature.
 
