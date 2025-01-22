@@ -26,7 +26,7 @@ Last updated: Jan 19, 2025
 
 ### **2. Patching**
 
-**2.1)** Open ReVanced Manager. If prompted, grant ReVanced Manager the permission to install unknown apps.
+**2.1)** Open ReVanced Manager. If prompted, grant ReVanced Manager permission to install unknown apps.
 
 **2.2)** Go to the ReVanced Manager settings and disable `Save patched app`. (This prevents a bug.)
 
@@ -59,4 +59,4 @@ You are now done! Note that there is a section in the YouTube ReVanced settings 
 
 ### **How do I update YouTube ReVanced?**
 
-To update, you will need to download the suggested YouTube APK, patch it, and install it. Of course make sure your ReVanced Manager is up-to-date. There is no reason to uninstall your current YouTube ReVanced or ReVanced Manager when updating.
+To update, you will need to download the suggested YouTube APK, patch it, and install it. Of course, make sure your ReVanced Manager is up-to-date. There is no reason to uninstall your current YouTube ReVanced or ReVanced Manager when updating.
