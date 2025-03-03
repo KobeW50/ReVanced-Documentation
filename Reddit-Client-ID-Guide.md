@@ -20,7 +20,7 @@ Client ID Setup
 
 **2.** Select `are you a developer? Create an app`.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" alt="are-you-a-developer-create-an-app" width="800"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" width="800"/>
 
 
 **3.** Enter an app name (it doesn't matter what you call it).
@@ -46,12 +46,12 @@ Client ID Setup
 
 **6.** Press `create app`.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg" alt="create-application" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg" width="400"/>
 
 
 **7.** Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" alt="copy-client-id" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" width="400"/>
 
 
 > [!TIP]
@@ -107,22 +107,22 @@ Patching
 
 **5.** Press the `Storage` button and then select the APK file that you downloaded.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/storage-button.png" alt="storage-button" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/storage-button.png" width="400"/>
 
 
 **6.** Tap on the `Selected patches` card.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/selected-patches.png" alt="selected-patches" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/selected-patches.png" width="400"/>
 
 
 **7.** Press the `Default` button and then press the ⚙️ icon by the "Spoof client" patch.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/default-patches.jpg" alt="default-patches" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/default-patches.jpg" width="400"/>
 
 
 **8.** Enter the client ID that you copied earlier and then press `Save`. Make sure there are no extra spaces.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" alt="client-id-patch-option" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
 
 
 **9.** Press `Done` and then `Patch`, and then wait for it to finish.
@@ -132,7 +132,7 @@ Patching
 > [!IMPORTANT]
 > If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" alt="install-anyway" width="400"/>
+> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" width="400"/>
 
 
 > [!TIP]
@@ -147,7 +147,7 @@ Troubleshooting
 
 ### 1. "Please match the requested format." error when signing in
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" alt="credentials-format-error" width="400"/>
+<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" width="400"/>
 
 If you get the error pictured above, enter your username and password manually instead of pasting or auto-entering them.
 
