@@ -87,7 +87,7 @@ Patching
 
   The above link points to the latest Infinity+ GitHub release. Do not download the patreon build. 
   
-  If patching errors occur (in step 9 of this guide), use an older Infinity+ version such as [7.4.3](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v7.4.3) (which I have tested).
+  If patching errors occur (in step 9 of this guide), use an older Infinity+ version, such as [7.4.3](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v7.4.3) (which I have tested).
   </details>
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
