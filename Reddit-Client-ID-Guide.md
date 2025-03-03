@@ -35,7 +35,7 @@ Client ID Setup
 | App | Redirect URI |
 |---|---|
 | Sync | `http://redditsync/auth` |
-| Infinity | `infinity://localhost` |
+| Infinity / Infinity+ | `infinity://localhost` |
 | RIF | `redditisfun://auth` |
 | Boost | `http://rubenmayayo.com` |
 | Relay | `dbrady://relay` |
@@ -79,13 +79,15 @@ Patching
 
 - [Sync download](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-06-30-1339-release/sync-for-reddit-v23-06-30-1339-2-android-apk-download/)
 
-- [Infinity download](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/infinity-for-reddit-7-4-1-release/infinity-for-reddit-7-4-1-2-android-apk-download/)
+- [Infinity+ download](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases)
 
   <details>
-  <summary><strong>Info for Infinity users</strong></summary>
+  <summary><strong>Info for Infinity(+) users</strong></summary>
   <br>
 
-  I haven't tested any Infinity version newer than the specific one linked above, but newer versions may work too. If you want to try patching the latest version, you can find and download it from [apkmirror.com](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/) or [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases). When downloading from apkmirror, make sure the variant you download is **not** the bundle variant, which is an `apkm` file instead of an `apk`. When downloading from GitHub, do not download the Patreon build. Lastly, during patching, be sure to look at the patch log to ensure that the patches apply successfully.
+  The above link points to the latest Infinity+ GitHub release. Do not download the patreon build. 
+  
+  If patching errors occur (in step 9 of this guide), use an older Infinity+ version such as [7.4.3](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v7.4.3) (which I have tested).
   </details>
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
