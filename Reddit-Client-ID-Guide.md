@@ -105,9 +105,9 @@ Patching
 > [!WARNING]
 > Do not install the APK after you download it.
 
-**4.** Launch the ReVanced Manager > Patcher > Select an application.
+**4.** Launch the ReVanced Manager and go to the settings. Enable `Allow changing patch selection`. Then, go to the Patcher tab and tap `Select an application`.
 
-**5.** Press the `Storage` button and then select the APK file that you downloaded.
+**5.** Press the `Storage` button and select the APK file that you downloaded.
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/storage-button.png" width="400"/>
 
@@ -126,6 +126,9 @@ Patching
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
 
+> [IMPORTANT]
+>
+> There is currently a [bug in the ReVanced Manager](https://github.com/ReVanced/revanced-manager/issues/2321) that prevents the "Spoof client" patch from being selected. As a workaround, select or deselect a different patch before selecting the "Spoof client" patch. If there are no other patches to select/deselect, go to the ReVanced Manager settings and enable `Show universal patches`. Now you'll see other patches that you can select/deselect.
 
 **9.** Press `Done` and then `Patch`, and then wait for it to finish.
 
