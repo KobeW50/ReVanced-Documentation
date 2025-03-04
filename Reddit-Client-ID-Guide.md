@@ -126,9 +126,9 @@ Patching
 
 <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
 
-> [IMPORTANT]
+> [!IMPORTANT]
 >
-> There is currently a [bug in the ReVanced Manager](https://github.com/ReVanced/revanced-manager/issues/2321) that prevents the "Spoof client" patch from being selected. As a workaround, select or deselect a different patch before selecting the "Spoof client" patch. If there are no other patches to select/deselect, go to the ReVanced Manager settings and enable `Show universal patches`. Now you'll see other patches that you can select/deselect.
+> There is currently a [bug](https://github.com/ReVanced/revanced-manager/issues/2321) in the ReVanced Manager that prevents the "Spoof client" patch from being selected. As a workaround, select or deselect a different patch before selecting the "Spoof client" patch. If there are no other patches to select/deselect, go to the ReVanced Manager settings and enable `Show universal patches`. Now you'll see other patches that you can select/deselect.
 
 **9.** Press `Done` and then `Patch`, and then wait for it to finish.
 
