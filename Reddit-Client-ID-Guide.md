@@ -85,7 +85,7 @@ Patching
   <summary><strong>Info for Infinity(+) users</strong></summary>
   <br>
 
-  The above link points to the latest Infinity+ GitHub release. Do not download the patreon build. 
+  The above link points to the latest Infinity+ GitHub release.
   
   If patching errors occur (in step 9 of this guide), use an older Infinity+ version, such as [7.4.3](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v7.4.3) (which I have tested).
   </details>
