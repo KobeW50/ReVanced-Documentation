@@ -43,6 +43,9 @@ Client ID Setup
 | BaconReader | `http://baconreader.com/auth` |
 | Joey | `https://127.0.0.1:65023/authorize_callback` |
 
+> [!TIP]
+>
+> If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require patching. After obtaining a client ID, simply enter it into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
 
 **6.** Press `create app`.
 
@@ -97,6 +100,13 @@ Patching
 - [Relay download](https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/)
 
 - [Slide download](https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/slide-for-reddit-6-7-1-release/slide-for-reddit-6-7-1-2-android-apk-download/)
+
+  <details>
+  <summary><strong>Info for Slide users</strong></summary>
+  <br>
+
+  If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require patching. Simply enter the client ID into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
+  </details>
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
