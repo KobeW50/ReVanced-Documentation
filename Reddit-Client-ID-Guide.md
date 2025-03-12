@@ -20,7 +20,7 @@ Client ID Setup
 
 **2.** Select `are you a developer? Create an app`.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" width="800"/>
+<img src="/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" width="800"/>
 
 
 **3.** Enter an app name (it doesn't matter what you call it).
@@ -49,12 +49,12 @@ Client ID Setup
 
 **6.** Press `create app`.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/create-application.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/create-application.jpg" width="400"/>
 
 
 **7.** Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/copy-client-id.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/copy-client-id.jpg" width="400"/>
 
 
 > [!TIP]
@@ -62,7 +62,7 @@ Client ID Setup
 >
 > To add a developer, edit the application and enter the account username in the `add developer:` field. Press **`Enter`** on your keyboard and then press the `update app` button.
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/adding-developer.gif"/>
+> <img src="/images/reddit-client-id-guide/adding-developer.gif"/>
 
 
 
@@ -119,22 +119,22 @@ Patching
 
 **5.** Press the `Storage` button and select the APK file that you downloaded.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/storage-button.png" width="400"/>
+<img src="/images/reddit-client-id-guide/storage-button.png" width="400"/>
 
 
 **6.** Tap on the `Selected patches` card.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/selected-patches.png" width="400"/>
+<img src="/images/reddit-client-id-guide/selected-patches.png" width="400"/>
 
 
 **7.** Press the `Default` button and then press the ⚙️ icon by the "Spoof client" patch.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/default-patches.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/default-patches.jpg" width="400"/>
 
 
 **8.** Enter the client ID that you copied earlier and then press `Save`. Make sure there are no extra spaces.
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
 
 > [!IMPORTANT]
 >
@@ -147,7 +147,7 @@ Patching
 > [!IMPORTANT]
 > If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
 >
-> <img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/install-anyway.jpg" width="400"/>
+> <img src="/images/reddit-client-id-guide/install-anyway.jpg" width="400"/>
 
 
 > [!TIP]
@@ -162,7 +162,7 @@ Troubleshooting
 
 ### 1. "Please match the requested format." error when signing in
 
-<img src="https://github.com/KobeW50/ReVanced-Documentation/blob/main/images/reddit-client-id-guide/credentials-format-error.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/credentials-format-error.jpg" width="400"/>
 
 If you get the error pictured above, enter your username and password manually instead of pasting or auto-entering them.
 
