@@ -14,7 +14,7 @@ Last updated: Jan 19, 2025
 
 **1.1)** Download and install [ReVanced Manager](https://revanced.app/download). (If you already have it installed, make sure it is the latest version.)
 
-**1.2)** Download, but do **NOT** install this [YouTube 19.47.53 APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/). (This is the currently suggested YouTube APK for patching.)
+**1.2)** Download, but do **NOT** install this [YouTube 20.07.39 APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-07-39-release/youtube-20-07-39-2-android-apk-download/). (This is the currently suggested YouTube APK for patching.)
 
 > For a more robust method of downloading the YouTube APK, see the footnotes.[^1]
 
