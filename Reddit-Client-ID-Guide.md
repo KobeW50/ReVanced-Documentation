@@ -167,7 +167,7 @@ If you get the error pictured above, enter your username and password manually i
 
 Install or update [Android System Webview](https://play.google.com/store/apps/details?id=com.google.android.webview).
 
-> If you can't access Android System Webview normally through Google Play Store, open your device's settings > Apps, and search for Android System Webview. Then find the option to view it in Google Play Store.
+> If you can't access Android System Webview normally through Google Play Store, open your device's settings > Apps, and search for Android System Webview. Then, find the option to view it in Google Play Store.
 
 ### 3. Other errors when signing in
 
