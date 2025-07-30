@@ -60,7 +60,7 @@ Client ID Setup
 > [!TIP]
 > If you want to be able to sign in to the patched app with Reddit accounts aside from the one tied to the client ID, you must add the accounts as developers to the application you just made.
 >
-> To add a developer, edit the application and enter the account username in the `add developer:` field. Press **`Enter`** on your keyboard and then press the `update app` button.
+> To add a developer, edit the application and enter the account username in the `add developer:` field. Press <kbd>Enter</kbd> on your keyboard and then press the `update app` button.
 >
 > <img src="/images/reddit-client-id-guide/adding-developer.gif"/>
 
