@@ -45,7 +45,7 @@ Client ID Setup
 
 > [!TIP]
 >
-> If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require patching. After obtaining a client ID, simply enter it into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
+> If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require [patching](#Patching). After obtaining a client ID, simply enter it into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
 
 **6.** Press `create app`.
 
