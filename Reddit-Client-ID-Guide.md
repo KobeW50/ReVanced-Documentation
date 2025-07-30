@@ -163,7 +163,13 @@ Troubleshooting
 
 If you get the error pictured above, enter your username and password manually instead of pasting or auto-entering them.
 
-### 2. Errors when signing in
+### 2. Correct username and password does not work
+
+Install or update [Android System Webview](https://play.google.com/store/apps/details?id=com.google.android.webview).
+
+> If you can't access Android System Webview normally through Google Play Store, open your device's settings > Apps, and search for Android System Webview. Then find the option to view it in Google Play Store.
+
+### 3. Other errors when signing in
 
 Sign-in errors usually mean that something is wrong with your client ID configuration. Below are some common mistakes. 
 
