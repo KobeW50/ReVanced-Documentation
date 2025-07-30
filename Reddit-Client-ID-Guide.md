@@ -45,7 +45,7 @@ Client ID Setup
 
 > [!TIP]
 >
-> If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require [patching](#Patching). After obtaining a client ID, simply enter it into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
+> If you plan to use Slide, consider trying [this fork](https://github.com/cygnusx-1-org/Slide/releases/latest) of the app, which is still being maintained and does not require [patching](#Patching). After obtaining a client ID, simply enter it into the textbox when you open the app. See the [setup instructions](https://github.com/cygnusx-1-org/Slide/blob/master/docs/SETUP.md) for more info.
 
 **6.** Press `create app`.
 
@@ -105,7 +105,7 @@ Patching
   <summary><strong>Info for Slide users</strong></summary>
   <br>
 
-  If you plan to use Slide, consider trying [this fork](https://github.com/edgan/Slide/releases/latest) of the app, which is still being maintained and does not require patching. Simply enter the client ID into the textbox when you open the app. See the [setup instructions](https://github.com/edgan/Slide/blob/master/SETUP.md#reddit-client-id-creation-steps) for more info.
+  If you plan to use Slide, consider trying [this fork](https://github.com/cygnusx-1-org/Slide/releases/latest) of the app, which is still being maintained and does not require patching. Simply enter the client ID into the textbox when you open the app. See the [setup instructions](https://github.com/cygnusx-1-org/Slide/blob/master/docs/SETUP.md) for more info.
   </details>
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
