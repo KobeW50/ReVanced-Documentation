@@ -5,7 +5,7 @@ Info
 
 - For this process, you will need an Android device running Android 8 or newer
 
-- The last significant update to this guide was on July 27th, 2024
+- The last **significant** update to this guide was on July 27th, 2024
 
 - This guide is **not** for patching the regular Reddit app. It is only for patching 3rd party Reddit clients (Sync, Infinity, RIF, etc.)
 
