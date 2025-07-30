@@ -170,15 +170,15 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 > [!NOTE]
 > If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
 
-**a)** The `redirect uri` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
+**Mistake A:** The `redirect uri` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
 > [!TIP]
 > Check if in the `redirect uri` you put `https` instead of `http` (or vice versa), a capital letter, an extra `/`, etc.
 
-**b)** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
+**Mistake B:** The app type is not set to `installed app`. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
-**c)** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to set up a new client ID.
+**Mistake C:** You accidentally added an extra space when entering the client ID in the ReVanced Manager. You must repatch, but you don't need to set up a new client ID.
 
-**d)** The `redirect uri` is set for the wrong app. Correct the issue [here](https://www.reddit.com/prefs/apps).
+**Mistake D:** The `redirect uri` is set for the wrong app. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
 > Example: It is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.
