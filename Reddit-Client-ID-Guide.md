@@ -9,7 +9,7 @@ Info
 
 - This guide is **not** for patching the regular Reddit app. It is only for patching 3rd party Reddit clients (Sync, Infinity, RIF, etc.)
 
-- If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also troubleshooting info at the end of this guide
+- If needed, you can ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192). There is also [troubleshooting info](#Troubleshooting) at the end of this guide
 
 
 
