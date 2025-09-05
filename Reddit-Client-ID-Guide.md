@@ -175,6 +175,8 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 
 > [!NOTE]
 > If you are certain that none of the issues below apply to you, create a new client ID and try again from scratch, or ask for assistance in the ReVanced [Discord](https://discord.com/invite/revanced), [Subreddit](https://www.reddit.com/r/revancedapp/), or [Telegram](https://t.me/revanced_topics/3192).
+>
+> For Reddit is Fun (possibly others) there seems to currently be an issue logging in from within the United States. You can use a free VPN such as ProtonVPN to connect from another country, and you should then be able to log in.
 
 **Mistake A:** The `redirect uri` is not EXACTLY the same as in the table above. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
