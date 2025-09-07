@@ -165,9 +165,13 @@ If you get the error pictured above, enter your username and password manually i
 
 ### 2. Correct username and password does not work
 
-Install or update [Android System Webview](https://play.google.com/store/apps/details?id=com.google.android.webview).
+There are two known cases where this issue occurs:
+
+**Case 1**: This issue can occur due to an outdated Android System Webview. Install or update [Android System Webview](https://play.google.com/store/apps/details?id=com.google.android.webview).
 
 > If you can't access Android System Webview normally through Google Play Store, open your device's settings > Apps, and search for Android System Webview. Then, find the option to view it in Google Play Store.
+
+**Case 2**: In Reddit is Fun (RIF) and possibly other clients, this issue sometimes occurs when logging in from certain countries. You can use a VPN (such as [ProtonVPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android), which has a free tier,) to connect from another country and then log in.
 
 ### 3. Other errors when signing in
 
