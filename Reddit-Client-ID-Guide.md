@@ -117,6 +117,9 @@ Patching
 
 **4.** Launch the ReVanced Manager and go to the settings. Enable `Allow changing patch selection`. Then, go to the Patcher tab and tap `Select an application`.
 
+> [!TIP]
+> If using Infinity+ or Relay, updates for the app will appear in Google Play Store. To learn how to avoid this nuisance, see the footnotes.[^1]
+
 **5.** Press the `Storage` button and select the APK file that you downloaded.
 
 <img src="/images/reddit-client-id-guide/storage-button.png" width="400"/>
@@ -192,3 +195,6 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 **Mistake D:** The `redirect uri` is set for the wrong app. Correct the issue [here](https://www.reddit.com/prefs/apps).
 
 > Example: It is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.
+
+___
+[^1]: To avoid having an update for the patched client appear in Google Play Store, include the `Change version code` patch when patching the app. Make sure that the `Version code` patch option for this patch is set to "Highest" (2147483647). Note that in order for this patch to be visible in the patch selection menu, you need to enable `Show universal patches` in the ReVanced Manager settings. Additionally, note that if you ever want to update the app instance, you will need to include the `Change version code` patch again or do a fresh install.
