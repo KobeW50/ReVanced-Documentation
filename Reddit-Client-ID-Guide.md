@@ -110,7 +110,7 @@ Patching
 
 - [BaconReader download](https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/baconreader-for-reddit-6-1-4-release/baconreader-for-reddit-6-1-4-android-apk-download/)
 
-- [Joey download (from apkmonk.com)](https://www.apkmonk.com/app/o.o.joey/)
+- Joey: Unfortunately, Joey is not available on apkmirror or GitHub. I do not trust any other sites that distribute the APK, so you'll need to find an APK on your own if you want to use Joey.
 
 > [!WARNING]
 > Do not install the APK after you download it.
