@@ -25,19 +25,17 @@ Last updated: June 26, 2025
 
 **2.1)** Open ReVanced Manager. If prompted, grant ReVanced Manager permission to install unknown apps.
 
-**2.2)** Go to the ReVanced Manager settings and disable `Save patched app`. (This prevents a bug.)
-
-**2.3)** Go to the Patcher tab and press Select an app. Then, press **Storage**
+**2.2)** Go to the Patcher tab and press Select an app. Then, press **Storage**
 
 <img src="/images/yt-revanced-guide/select-from-storage.png" width="280"/>
 
-**2.4)** Select the YouTube APK you just downloaded. (It will likely be in your Downloads folder.)
+**2.3)** Select the YouTube APK you just downloaded. (It will likely be in your Downloads folder.)
 
-**2.5)** ReVanced Manager should now show the YouTube app selected, with several dozen selected patches. Press the Patch button to begin patching.
+**2.4)** ReVanced Manager should now show the YouTube app selected, with several dozen selected patches. Press the Patch button to begin patching.
 
 > If you want to customize the patch selection, see the footnotes.[^2]
 
-**2.6)** Keep ReVanced Manager open while the app is being patched. Make sure no errors occur. (The patch log should be easily readable.)
+**2.5)** Keep ReVanced Manager open while the app is being patched. Make sure no errors occur. (The patch log should be easily readable.)
 
 
 
