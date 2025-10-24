@@ -43,7 +43,7 @@ Last updated: Oct 24, 2025
 
 **2.4)** Follow the prompt to open APKMirror. Then, navigate APKMirror to download the non-bundle variant of the YouTube APK. Below is a video walkthrough.
 
-<img src="/images/yt-revanced-guide/apkmirror-walkthrough.mp4" width="296"/> <img src="/images/yt-revanced-guide/apkmirror-youtube-variant.jpg" width="270"/>
+<img src="/images/yt-revanced-guide/apkmirror-walkthrough.gif" height="720"/> <img src="/images/yt-revanced-guide/apkmirror-youtube-variant.jpg" width="270"/>
 
 **2.5)** Patching will proceed once the APK is downloaded. Keep ReVanced Manager open while YouTube is being patched. Make sure no errors occur.
 
