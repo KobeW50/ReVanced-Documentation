@@ -30,7 +30,7 @@ Last updated: Oct 24, 2025
 
 **2.1)** Return to the Apps tab and press the `+` button.
 
-<img src="/images/yt-revanced-guide/add-an-app.jpg" width="270"/>
+<img src="/images/yt-revanced-guide/add-an-app.jpg" width="180"/>
 
 **2.2)** Wait for the app list to load and then select YouTube.
 
@@ -45,7 +45,7 @@ Last updated: Oct 24, 2025
 
 <img src="/images/yt-revanced-guide/apkmirror-walkthrough.gif" height="720"/>
 
-<img src="/images/yt-revanced-guide/apkmirror-youtube-variant.jpg" width="270"/>
+<img src="/images/yt-revanced-guide/apkmirror-youtube-variant.jpg" width="180"/>
 
 **2.5)** Patching will proceed once the APK is downloaded. Keep ReVanced Manager open while YouTube is being patched. Make sure no errors occur.
 
