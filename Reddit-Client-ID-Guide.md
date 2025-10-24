@@ -13,7 +13,7 @@ Info
 
 
 
-Client ID Setup
+1. Client ID Setup
 =
 
 **1.** Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
