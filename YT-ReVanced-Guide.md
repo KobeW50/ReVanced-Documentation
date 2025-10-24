@@ -78,11 +78,11 @@ To update, you will need to patch and install YouTube again just like in the [pa
 
 > If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After installing it, open it and tap "Manage applications". Then, continue with the steps below:
 
-**3.1)** Go to the App info of the **unpatched** YouTube app and tap on "Set as default" / "Open by default" -> Open supported links, **Off**. (Alternatively, uninstall or disable the unpatched YouTube app.)
+**Step 1)** Go to the App info of the **unpatched** YouTube app and tap on "Set as default" / "Open by default" -> Open supported links, **Off**. (Alternatively, uninstall or disable the unpatched YouTube app.)
 
-**3.2)** Open the App info of YouTube ReVanced and tap on "Set as default" / "Open by default" -> Open supported links, **On**.
+**Step 2)** Open the App info of YouTube ReVanced and tap on "Set as default" / "Open by default" -> Open supported links, **On**.
 
-**3.3)** Return to the previous page. Tap "Supported web addresses", and turn them all **On**.
+**Step 3)** Return to the previous page. Tap "Supported web addresses", and turn them all **On**.
 
 
 
