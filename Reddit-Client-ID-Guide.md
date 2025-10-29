@@ -132,7 +132,7 @@ Patching
 <img src="/images/reddit-client-id-guide/select-patches.jpg" width="360"/>
 
 
-**8.** Press the `⟲` button and then press the `⛭` button by the `Spoof client` patch.
+**8.** Press the **`⟲`** button and then press the **`⛭`** button by the `Spoof client` patch.
 
 <img src="/images/reddit-client-id-guide/default-patches.jpg" width="360"/>
 
