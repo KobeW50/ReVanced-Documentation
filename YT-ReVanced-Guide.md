@@ -12,7 +12,7 @@ Last updated: Oct 24, 2025
 
 ### 1. Preparing for Patching
 
-**1.1)** Download and install [ReVanced Manager](https://revanced.app/download). (If you already have it installed, make sure it is the latest version.)
+**1.1)** Install (or update to) the latest version of the [ReVanced Manager](https://revanced.app/download).
 
 **1.2)** Download and install the APKMirror downloader APK from [here](https://github.com/ReVanced/revanced-manager-downloaders/releases/latest). (It is a plugin for ReVanced Manager.)
 
