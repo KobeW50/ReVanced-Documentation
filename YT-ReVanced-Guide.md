@@ -28,7 +28,7 @@ Last updated: Oct 24, 2025
 
 ### 2. Patching
 
-**2.1)** Return to the Apps tab and press the `+` button.
+**2.1)** Return to the Apps tab and press the `+` button in the bottom right corner.
 
 <img src="/images/yt-revanced-guide/add-an-app.jpg" width="216"/>
 
