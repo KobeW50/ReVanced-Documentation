@@ -6,7 +6,7 @@
 
 > [!IMPORTANT]
 >
-> Reddit has changed their policy and now prevents users from obtaining a client ID (OAuth token) in the manner outlined in the Simplified Reddit Client ID Guide linked above. Therefore, **the guide is currently utdated**.
+> Reddit has changed their policy and now prevents users from obtaining a client ID (OAuth token) in the manner outlined in the Simplified Reddit Client ID Guide linked above. Therefore, **the guide is currently outdated**.
 >
 > See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
 
