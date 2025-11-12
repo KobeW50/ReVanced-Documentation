@@ -16,6 +16,12 @@ Info
 Client ID Setup
 =
 
+> [!IMPORTANT]
+>
+> Reddit has changed their policy and now prevents users from obtaining a client ID (OAuth token) in the manner outlined in this guide. Therefore, **this guide is currently outdated**.
+>
+> See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
+
 **1.** Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
 
 **2.** Select `are you a developer? Create an app`.
