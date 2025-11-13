@@ -3,7 +3,7 @@
 Info
 =
 
-- The last **significant** update to this guide was on July 27th, 2024
+- The last **significant** update to this guide was on Oct 29th, 2025
 
 - For this process, you will need an Android device running Android 8 or newer
 
@@ -24,14 +24,14 @@ Client ID Setup
 
 **1.** Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
 
-**2.** Select `are you a developer? Create an app`.
+**2.** Select `are you a developer? Create an app...`.
 
-<img src="/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" width="800"/>
+<img src="/images/reddit-client-id-guide/are-you-a-developer-create-an-app.jpg" width="720"/>
 
 
 **3.** Enter an app name (it doesn't matter what you call it).
 
-**4.** Set the type to "installed app".
+**4.** Set the type to `installed app`.
 
 > [!WARNING] 
 > Don't add a `description` or `about url`.
@@ -55,12 +55,12 @@ Client ID Setup
 
 **6.** Press `create app`.
 
-<img src="/images/reddit-client-id-guide/create-application.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/create-app.jpg" width="349"/>
 
 
 **7.** Copy the client ID, which is directly under the app name. Save it in your clipboard. You'll need it soon.
 
-<img src="/images/reddit-client-id-guide/copy-client-id.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/copy-client-id.jpg" width="366"/>
 
 
 > [!TIP]
@@ -96,7 +96,7 @@ Patching
 
   The above link points to the latest Infinity+ GitHub release.
   
-  If patching errors occur (in step 9 of this guide), use an older Infinity+ version, such as [7.4.3](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v7.4.3) (which I have tested).
+  If patching errors occur (in step 10 of this guide), use an older Infinity+ version, such as [8.0.7](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/tag/v8.0.7) (which I have tested).
   </details>
 
 - [Reddit is Fun (RIF) download](https://www.apkmirror.com/apk/talklittle/reddit-is-fun/reddit-is-fun-5-6-22-release/rif-is-fun-for-reddit-5-6-22-android-apk-download/)
@@ -121,43 +121,47 @@ Patching
 > [!WARNING]
 > Do not install the APK after you download it.
 
-**4.** Launch the ReVanced Manager and go to the settings. Enable `Allow changing patch selection`. Then, go to the Patcher tab and tap `Select an application`.
+**4.** Open ReVanced Manager. If prompted, grant ReVanced Manager permission to install unknown apps and to run in the background.
+
+**5.** From the Apps tab, press the `+` button in the bottom right corner.
+
+<img src="/images/reddit-client-id-guide/add-an-app.jpg" width="270"/>
+
+
+**6.** Press `Select from storage` and select the APK file you downloaded.
+
+<img src="/images/reddit-client-id-guide/select-from-storage.jpg" width="360"/>
+
+
+**7.** Tap `Select patches`.
+
+<img src="/images/reddit-client-id-guide/select-patches.jpg" width="360"/>
+
+
+**8.** Press the **`⟲`** button and then press the **`⛭`** button by the `Spoof client` patch.
+
+<img src="/images/reddit-client-id-guide/default-patches.jpg" width="360"/>
+
+
+**9.** Enter the client ID that you copied earlier. Make sure there are no extra spaces. Then, press `Save` and return to the patch selection menu.
+
+<img src="/images/reddit-client-id-guide/client-id-patch-option.jpg" width="360"/>
+
 
 > [!TIP]
 > If using Infinity+ or Relay, updates for the app will appear in Google Play Store. To learn how to avoid this nuisance, see the footnotes.[^1]
 
-**5.** Press the `Storage` button and select the APK file that you downloaded.
+**10.** Press `Save` and then `Patch`. Keep ReVanced Manager open while the app is being patched. Make sure no errors occur.
 
-<img src="/images/reddit-client-id-guide/storage-button.png" width="400"/>
-
-
-**6.** Tap on the `Selected patches` card.
-
-<img src="/images/reddit-client-id-guide/selected-patches.png" width="400"/>
-
-
-**7.** Press the `Default` button and then press the ⚙️ icon by the "Spoof client" patch.
-
-<img src="/images/reddit-client-id-guide/default-patches.jpg" width="400"/>
-
-
-**8.** Enter the client ID that you copied earlier and then press `Save`. Make sure there are no extra spaces.
-
-<img src="/images/reddit-client-id-guide/client-id-patch-option.jpg" width="400"/>
-
-
-**9.** Press `Done` and then `Patch`, and then wait for it to finish.
-
-**10.** After patching is complete, press the `Install` button.
+**11.** When patching completes, press `Install`.
 
 > [!IMPORTANT]
 > If you get a popup from Google Play Protect while installing, press `More details` and then press `Install anyway`.
 >
-> <img src="/images/reddit-client-id-guide/install-anyway.jpg" width="400"/>
-
+> <img src="/images/reddit-client-id-guide/install-anyway.jpg" width="323"/>
 
 > [!TIP]
-> If you want to save or share the patched APK file, you can export it by using the save button in the bottom left corner (opposite the `Install` button).
+> You can also export the patched APK file using the save button on the bottom left.
 
 Done!
 
@@ -168,9 +172,10 @@ Troubleshooting
 
 ### 1. "Please match the requested format." error when signing in
 
-<img src="/images/reddit-client-id-guide/credentials-format-error.jpg" width="400"/>
+<img src="/images/reddit-client-id-guide/credentials-format-error.jpg" width="350"/>
 
 If you get the error pictured above, enter your username and password manually instead of pasting or auto-entering them.
+
 
 ### 2. Correct username and password does not work
 
@@ -181,6 +186,7 @@ There are two known cases where this issue occurs:
 > If you can't access Android System Webview normally through Google Play Store, open your device's settings > Apps, and search for Android System Webview. Then, find the option to view it in Google Play Store.
 
 **Case 2**: In Reddit is Fun (RIF) and possibly other clients, this issue sometimes occurs when logging in from certain countries. You can use a VPN (such as [ProtonVPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android), which has a free tier,) to connect from another country and then log in.
+
 
 ### 3. Other errors when signing in
 
@@ -203,4 +209,4 @@ Sign-in errors usually mean that something is wrong with your client ID configur
 > Example: It is set to `http://redditsync/auth` even though the client ID will be used for an app other than Sync.
 
 ___
-[^1]: To avoid having an update for the patched client appear in Google Play Store, include the `Change version code` patch when patching the app. Make sure that the `Version code` patch option for this patch is set to "Highest" (2147483647). Note that in order for this patch to be visible in the patch selection menu, you need to enable `Show universal patches` in the ReVanced Manager settings. Additionally, note that if you ever want to update the app instance, you will need to include the `Change version code` patch again or do a fresh install.
+[^1]: To avoid having an update for the patched client appear in Google Play Store, include the `Change version code` patch when patching the app. Make sure that the `Version code` patch option for this patch is set to "Highest" (2147483647). Note that in order for this patch to be visible in the patch selection menu, you need to enable `Show universal patches` in the Advanced section of the ReVanced Manager settings. You will also need to enable `Allow changing patch selection and options` in the same settings menu. Additionally, note that if you ever want to update the app instance, you will need to include the `Change version code` patch again or do a fresh install.
