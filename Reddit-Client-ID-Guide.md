@@ -20,7 +20,11 @@ Client ID Setup
 >
 > Reddit has changed their policy and now prevents users from obtaining a client ID (OAuth token) in the manner outlined in this guide. Therefore, **this guide is currently outdated**.
 >
-> See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
+> - If you already set up a client ID you should be able to still use it and even patch apps with it.
+>
+> - There are workarounds for obtaining a client ID for [Boost](https://www.reddit.com/r/BoostForReddit/comments/1pjl5en/comment/nte9t5e/) and [Infinity+](https://www.reddit.com/r/revancedapp/comments/1p5w18g/guide_how_to_use_reddit_clients_after_new_api/).
+>
+> - See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
 
 **1.** Go to [this page](https://www.reddit.com/prefs/apps) (and sign in to the Reddit account you want to use).
 
