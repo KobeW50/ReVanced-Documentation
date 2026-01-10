@@ -10,7 +10,7 @@
 >
 > - If you already set up a client ID you should be able to still use it and even patch apps with it.
 >
-> - There is a workaround for obtaining a client ID for [Boost](https://www.reddit.com/r/BoostForReddit/comments/1pjl5en/comment/nte9t5e/).
+> - There is a [workaround](https://github.com/wchill/patcheddit?tab=readme-ov-file#-get-started) for obtaining a client ID for Boost, RIF, Sync, Relay, BaconReader, and Joey.
 >
 > - See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
 
