@@ -1,5 +1,9 @@
 # Guide to patch Reddit clients
 
+> [!WARNING]
+>
+> This guide is outdated and no longer being maintained. Sorry for the inconvenience.
+
 Info
 =
 

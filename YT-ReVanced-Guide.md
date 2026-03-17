@@ -1,6 +1,11 @@
 Last updated: Nov 29, 2025
 
 
+> [!WARNING]
+>
+> This guide is outdated and no longer being maintained. Sorry for the inconvenience.
+
+
 ### **Before You Begin**
 
 - You will need a device running Android 8 or newer

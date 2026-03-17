@@ -1,18 +1,12 @@
+> [!WARNING]
+>
+> This repository is outdated and no longer being maintained. Sorry for the inconvenience.
+
 # Quick links
 
 - [YouTube ReVanced Guide for Dummies](/YT-ReVanced-Guide.md#before-you-begin)
 
-- [Simplified Reddit Client ID Guide](/Reddit-Client-ID-Guide.md#info) (Currently outdated)
-
-> [!IMPORTANT]
->
-> Reddit has changed their policy and now prevents users from obtaining a client ID (OAuth token) in the manner outlined in the Simplified Reddit Client ID Guide linked above. Therefore, **the guide is currently outdated**.
->
-> - If you already set up a client ID you should be able to still use it and even patch apps with it.
->
-> - There is a [workaround](https://github.com/wchill/patcheddit?tab=readme-ov-file#-get-started) for obtaining a client ID for Boost, RIF, Sync, Relay, BaconReader, and Joey.
->
-> - See [this issue](https://github.com/KobeW50/ReVanced-Documentation/issues/17) for more information.
+- [Simplified Reddit Client ID Guide](/Reddit-Client-ID-Guide.md#info)
 
 - [Archived Guides](/archived)
 
